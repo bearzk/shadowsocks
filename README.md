@@ -1,6 +1,8 @@
 shadowsocks
 ===========
 
+Long live shadowsocks.
+
 [![PyPI version]][PyPI]
 [![Build Status]][Travis CI]
 [![Coverage Status]][Coverage]
